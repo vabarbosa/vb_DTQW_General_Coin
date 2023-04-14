@@ -7,6 +7,9 @@ $\mathcal{C} = \sum \limits_{k=0}^{n-1} C_{k} \otimes |v_k\rangle \langle v_k|$
 
 where all operators $C_k$ are unitary of size $m \times m$. 
 
+![alt text](https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/General Coin Circuit?raw=true)
+
+
 Furthermore, if all operators $C_k$ are the same, we obtain the usual form of the coin operator, i.e.
 
 $\mathcal{C} = C \otimes I$
