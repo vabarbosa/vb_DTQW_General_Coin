@@ -5,7 +5,7 @@ Given a general shift operator $S$, associated to a graph $\mathcal{G}$ as descr
 
 \begin{equation}
     \label{general_coin}
-    \mathcal{C}=\sum\limits_{k=0}^{n-1} C_{k} \otimes |v_k\rangle \langle v_k|
+    \mathcal{C} = \sum \limits_{k=0}^{n-1} C_{k} \otimes |v_k\rangle \langle v_k|
 \end{equation}
 where all operators $C_k$ are unitary of size $m \times m$. 
 
