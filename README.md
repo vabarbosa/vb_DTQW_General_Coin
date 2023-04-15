@@ -9,7 +9,7 @@ where all operators $C_k$ are unitary of size $m \times m$.
 
 This is represented in the following figure:
 
-<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/General_Coin_Circuit.jpg?raw=true" width="100" height="100">
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/General_Coin_Circuit.jpg?raw=true" width="250" height="100">
 
 In this circuit, we consider the white dots as 0's and the black dots as 1's, in such a way that we can see the sequence of white and black dots as binary code, where the less significant bit is given by the uppermost dot. Each operator $C_i$ acts only on the position state $|v_k\rangle$ whose index $k$ matches the binary representation of the sequence of white and black dots.
 
