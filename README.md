@@ -19,6 +19,6 @@ $\mathcal{C} = C \otimes I$
 
 As in the following figure:
 
-![github-small](https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Reduction_to_usual_coin.jpg?raw=true)
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Reduction_to_usual_coin.jpg?raw=true" width="400" height="200">
 
 Graph_K4_General_Coin.ipynb contains Qiskit simulations comparing the UC-DTQW on a complete graph using the regular form of the Hamard coin operator, and a generalizaed coin which acts as a Hadamard operator on nodes 1 and 3, and as the $\sqrt{x}^{\dagger}$ operator on nodes 0 and 2.
