@@ -26,7 +26,7 @@ Graph_K4_General_Coin.ipynb contains Qiskit simulations comparing the UC-DTQW on
 Evolution operator of a UCDTQW on a complete graph of four nodes ($\mathcal{K}_4$) using a Hadamard coin as introduced in 
 https://doi.org/10.1007/s11128-023-03878-6.
 
-<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8a.jpg?raw=true" width="300" height="270">
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8a.jpg?raw=true" width="250" height="220">
 
 Here we perform a UCDTQW on the same graph, although using a generalization of the coin operator that acts with the Hadamard coin on nodes 1 and 3 of the graph, and with the 2-qubit $\sqrt{x}^{\dagger}$ operator on nodes 0 and 2.
 
