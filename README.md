@@ -23,5 +23,8 @@ As in the following figure:
 
 Graph_K4_General_Coin.ipynb contains Qiskit simulations comparing the UC-DTQW on a complete graph using the regular form of the Hamard coin operator, and a generalizaed coin which acts as a Hadamard operator on nodes 1 and 3, and as the $\sqrt{x}^{\dagger}$ operator on nodes 0 and 2.
 
-The probability distributions of the first six steps fro both cases is shown below: 
+The corresponding circuits and resulting probability distributions of the first six steps fro both cases is shown below: 
+
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig15a.jpg?raw=true" width="400" height="200">
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig15b.jpg?raw=true" width="400" height="200">
 
