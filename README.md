@@ -1,5 +1,5 @@
-# DTQW_General_Coin (based on https://arxiv.org/abs/2304.01582)
-In this repository we explain how to use a general coin for a Unitary Coined Discrete-Time Quantum Walk (UC-DTQW) and provide an Qiskit simulation with an example
+# DTQW_General_Coin
+In this repository we explain how to use a general coin for a Unitary Coined Discrete-Time Quantum Walk (UCDTQW) as proposed in https://arxiv.org/abs/2304.01582, and provide Qiskit simulations with an example
 
 Given a general shift operator $S$ (could be any unitary operator acting on a bipartite quantum system), the evolution operator of a unitary coined quantum walk can be completed by choosing a general coin of the form
 
