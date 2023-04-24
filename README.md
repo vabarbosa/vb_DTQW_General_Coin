@@ -25,5 +25,5 @@ Graph_K4_General_Coin.ipynb contains Qiskit simulations comparing the UC-DTQW on
 
 <img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8a.jpg?raw=true" width="300" height="270">
 <img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8b.jpg?raw=true" width="400" height="200">
-<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8c.jpg?raw=true" width="400" height="200">
+<img src="https://github.com/allanwing-qc/DTQW_General_Coin/blob/main/Fig8c.jpg?raw=true" width="800" height="400">
 
